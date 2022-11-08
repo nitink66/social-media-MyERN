@@ -23,7 +23,7 @@ class RouteComponent extends Component {
 
     const Layout = () => {
       return (
-        <div >
+        <div className="theme-light">
         <Navbar />
         <div style={{ display: "flex" }}>
           <LeftSidebar />
